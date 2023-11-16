@@ -1,5 +1,7 @@
 ## Welcome to GitHub Games
 
+**Add name: Shreya**
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://shreyasanjay22.github.io/github-games/
