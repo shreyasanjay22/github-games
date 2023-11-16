@@ -6,6 +6,8 @@ __facilator name: Madelyn Kapfhammer__
 
 #### Date: 11/16/2023
 
+###### training session for github
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://shreyasanjay22.github.io/github-games/
