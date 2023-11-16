@@ -1,6 +1,10 @@
 ## Welcome to GitHub Games
 
-**Add name: Shreya**
+**Name: Shreya**
+
+__facilator name --> Madelyn Kapfhammer__
+
+
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
